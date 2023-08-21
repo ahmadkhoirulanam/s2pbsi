@@ -1,0 +1,124 @@
+
+---Downloaded files---
+The import files for: Home v7 (LearnPress) were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/s2pbsi
+Data file = C:\xampp\htdocs\s2pbsi/wp-content/uploads/2023/08/demo-content-import-file_2023-08-21__06-12-03.xml
+Widget file = C:\xampp\htdocs\s2pbsi/wp-content/uploads/2023/08/demo-widgets-import-file_2023-08-21__06-12-03.json
+Customizer file = C:\xampp\htdocs\s2pbsi/wp-content/uploads/2023/08/demo-customizer-import-file_2023-08-21__06-12-03.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+
+
+------
+New AJAX call!
+[WARNING] Failed to import tribe_events_cat Featured
+[WARNING] Failed to import tribe_events_cat University
+[WARNING] Failed to import "Barney Stinson": Invalid post type tribe_organizer
+[WARNING] Failed to import "Game Developers Conference": Invalid post type tribe_events
+[WARNING] Failed to import "Digital Transformation Conference": Invalid post type tribe_events
+[WARNING] Failed to import "International React Conference": Invalid post type tribe_events
+[WARNING] Failed to import "World Education Day Conference": Invalid post type tribe_events
+[WARNING] Failed to import "The Games Education Summit": Invalid post type tribe_events
+[WARNING] Failed to import "February Education Conferences": Invalid post type tribe_events
+[WARNING] Failed to import "World University Convocation 2024": Invalid post type tribe_events
+[WARNING] Failed to import "Panpacific": Invalid post type tribe_venue
+[WARNING] Failed to import "Namelix": Invalid post type tribe_organizer
+[WARNING] Failed to import "Namelix": Invalid post type tribe_organizer
+
+
+---Importing widgets---
+(Edubin) Blog Sidebar : 
+
+Cari - No Title - Imported
+Edubin Recent Post - Recent Posts - Imported
+Kategori - No Title - Imported
+
+(Edubin) Footer 1 : 
+
+Gambar - No Title - Imported
+Teks - No Title - Imported
+Teks - No Title - Imported
+
+(Edubin) Footer 2 : 
+
+Menu Navigasi - Feature Links - Imported
+
+(Edubin) Footer 3 : 
+
+Menu Navigasi - Support - Imported
+
+(Edubin) Footer 4 : 
+
+Teks - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
